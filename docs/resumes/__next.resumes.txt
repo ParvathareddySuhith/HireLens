@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[56355,["/HireLens/_next/static/chunks/f9e23e4c9b53d596.js","/HireLens/_next/static/chunks/86fd3d90660310ce.js"],"default"]
+3:I[23395,["/HireLens/_next/static/chunks/f9e23e4c9b53d596.js","/HireLens/_next/static/chunks/86fd3d90660310ce.js"],"default"]
+0:{"buildId":"8skzxlgQlTKuQkbZ5iTd-","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
