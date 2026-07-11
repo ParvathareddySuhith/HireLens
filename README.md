@@ -1,7 +1,6 @@
 # HireLens
 
-HireLens is an explainable Resume–Job Description matching platform built as a final-year Computer Science project.
-
+HireLens is an simple & explainable Resume–Job Description matching platform.
 ## Features
 - Job description creation
 - Resume upload (PDF/TXT)
